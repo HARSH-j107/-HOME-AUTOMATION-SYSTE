@@ -57,7 +57,7 @@ Upload and run!
 📊 Proper modular structure, code comments, and best practices followed.
 
 📸 Screenshots
-Image
+<img width="880" height="495" alt="Image" src="https://github.com/user-attachments/assets/d4a1b0e6-fee5-41e0-bd94-083f19dcb5ee" />
 
 🧑‍💻 Author
 Harsh Parashar
